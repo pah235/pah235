@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Hoang
 
-<!--
-**pah235/pah235** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Business Intelligence Analyst / Data Analyst** 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Core Skills
+
+### 📊 Data Analysis & BI Tools
+- **SQL** (MS SQL Server), **BigQuery**
+- **Power BI** (DAX, Power Query, Data Modeling)
+- **Python**, **R Language**  
+- **Google Sheets** (advanced functions, automation)
+
+### 🧩 Microsoft Office Suite
+- **Excel** (VBA scripting, Pivot Tables, dashboards)
+- **Word**, **PowerPoint** (reporting and presentation)
+
+### 📈 Statistical Software
+- **Stata**, **EViews**
+
+---
+Below are my personal projects and practice exercises relevant to Business Intelligence Analyst and Data Analyst roles.
