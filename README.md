@@ -11,4 +11,4 @@
 - 📐 **Statistical Software**: Stata, EViews
 
 ---
-📍💡**Below are my personal projects and practice exercises relevant to Business Intelligence Analyst/Data Analyst roles.**
+📍💡***Below are my personal projects and practice exercises relevant to Business Intelligence Analyst/Data Analyst roles.***
