@@ -5,9 +5,10 @@
 
 ### 💼 Core Skills
 
-- 📊 **BI Tools**: Power BI (DAX, Power Query, Data Modeling), Microsoft Excel (Power Query, Pivot Table, Advanced Functions), Google Sheets 
-- 💻 **Programming Languages**: SQL (Window Functions, CTE, Joins), Python, R
-- 🗃️ **Databases**: Google BigQuery, Microsoft SQL Server
+- 📊 **BI Tools**: Power BI (DAX, Power Query, Data Modeling), Microsoft Excel (Power Query, Pivot Table, Advanced Functions), Google Spreadsheets, Tableau, Looker Studio   
+- 💻 **Programming Languages**: SQL (Window Functions, CTEs, JOINs), R, Python (NumPy, Pandas, Matplotlib, Seaborn)  
+- 🗃️ **Databases & Cloud:** Google BigQuery, Microsoft SQL Server, AWS 
+- 📦 **Microsoft Power Platform:** Power Apps, Power Automate, Power Virtual Agents  
 - 📐 **Statistical Software**: Stata, EViews
 
 ---
