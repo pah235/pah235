@@ -12,5 +12,3 @@
 
 ---
 📍💡***Below are my personal projects and practice exercises.***
-
-https://public.tableau.com/views/Book1_17594142116170/StackedBar100?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
