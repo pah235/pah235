@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Hoang
 
-
-
+🎯 **Aspiring Business Intelligence Analyst, Data Analyst** | Power BI • SQL • Python • Data Storytelling
+---
 
 ### 💼 Core Skills
 
